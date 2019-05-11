@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, DicTextActivity!</string>
+    <string name="app_name">DicText</string>
+    <string name="gap">Gap(sec)</string>
+    <string name="dictate">Your Dictation Text</string>
+    <string name="msg">Press Dictate to pause and play</string>
+    <string name="from">from</string>
+
+</resources>
